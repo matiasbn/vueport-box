@@ -16,7 +16,7 @@ export default {
       selected: { id: '4', rpcUrl: 'https://rinkeby.infura.io' },
       options: [
         {
-          value: { id: '1', rpcUrl: 'https://mainnet.infura;io' },
+          value: { id: '1', rpcUrl: 'https://mainnet.infura.io' },
           text: 'mainnet'
         },
         {
